@@ -1,4 +1,4 @@
-![FedsNetwork Banner](assets/images/feds/fedstoplarge.png)
+![FedsNetwork Banner](/assets/images/feds/fedstoplarge.png)
 
 # Feds Network
 
